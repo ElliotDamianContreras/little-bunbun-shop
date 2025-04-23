@@ -9,6 +9,8 @@ body {
     background-color: #fff8f0;
     color: #4b2e2e;
     line-height: 1.6;
+    background-image: url(https://i.pinimg.com/736x/c4/5a/0c/c45a0c7f67012e945ba8bef2c96eebb4.jpg);
+    background-size: cover;
 }
 
 header {
@@ -18,6 +20,7 @@ header {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
+    background-image: url(https://i.pinimg.com/736x/75/26/a8/7526a8a2d898ea3171fe5202b5e5e51b.jpg);
 }
 
 .logo h1 {
@@ -86,4 +89,8 @@ button {
 
 button:hover {
     background-color: #b45333;
+}
+
+a{
+    border-top-right-radius: 0%;
 }
